@@ -6,4 +6,3 @@ gensim
 scikit-learn
 joblib
 keras
-pickle
