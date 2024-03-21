@@ -3,7 +3,7 @@ numpy
 pandas
 tensorflow
 gensim
-sklearn
-matplotlib
+scikit-learn
+joblib
 keras
 pickle
